@@ -1,0 +1,7 @@
+publish_to:
+  mqtt: true
+  kafka: false
+  grafana: true
+sensors:
+  weight: true
+  lidar: true
